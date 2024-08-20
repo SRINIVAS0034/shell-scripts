@@ -3,6 +3,6 @@
 NUMBER1=$1
 NUMBER2=$2
 
-sum=$(($number1+$number2))
+SUM=$(($number1+$number2))
 
-echo "total:: $sum"
+echo "total:: $SUM"
